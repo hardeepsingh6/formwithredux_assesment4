@@ -1,0 +1,11 @@
+##Command To create our app
+npx create-react-app assignment-module4
+
+## Command To run our app
+npm start
+
+## Command to install JSON server
+npm install -g json-server
+
+## Command To run json-server
+json-server --watch db.json --port 3001
